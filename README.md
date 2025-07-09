@@ -1,19 +1,12 @@
-# Simple Python Calculator
+# 🧮 Python Calculator
 
-This is a basic calculator built using Python and object-oriented programming.
+A simple, extensible calculator built with object-oriented Python. Supports basic arithmetic operations as well as square and square root functions. Designed for beginners learning Python classes and conditionals.
 
-## Features
-- Add, subtract, multiply, divide
-- Division by zero handling
-- Clean and simple design
+## 🚀 Features
 
-## How to Run
-
-Get Python is installed. Use the terminal and run:
-
-```bash
-python calculator.py
-git add README.md
-git commit -m "Added README file"
-git push
+- Addition, Subtraction, Multiplication, Division
+- Square and Square Root calculations
+- Handles division-by-zero and negative-square-root errors gracefully
+- Clean command-line input/output interface
+- Easy to expand for future operations (like power, modulo, etc.)
 
