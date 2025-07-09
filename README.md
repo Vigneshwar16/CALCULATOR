@@ -4,7 +4,7 @@ A simple, extensible calculator built with object-oriented Python. Supports basi
 
 ## 🚀 Features
 
-- Addition, Subtraction, Multiplication, Division
+- Addition, Subtraction, Multiplication, Division, Square, Squareroot
 - Square and Square Root calculations
 - Handles division-by-zero and negative-square-root errors gracefully
 - Clean command-line input/output interface
